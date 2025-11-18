@@ -7,14 +7,14 @@ body {
 
 /* Ajuste do cabeçalho para alinhamento horizontal */
 .cabecalho {
-    background-color: #3f51b5;
+    background-color: #5c6dca;
     color: #ffffff;
     padding: 20px; 
     display: flex;
     flex-direction: row; /* Alinhamento principal: linha */
     justify-content: space-between; /* Espaça o título e o botão */
     align-items: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(19, 18, 18, 0.733);
 }
 
 #titulo {
@@ -27,7 +27,7 @@ body {
 /* Estilos para o Botão "Voltar ao Início" */
 .btn-voltar {
     text-decoration: none;
-    background-color: #ff9800;
+    background-color: #ffd000;
     color: white;
     padding: 8px 15px;
     border-radius: 5px;
@@ -61,7 +61,7 @@ body {
     font-weight: normal;
 }
 
-/* --- ESTILOS DA GALERIA (INDEX) --- */
+/* ESTILOS DA GALERIA  INDEX */
 .mulheres-galeria {
     display: grid;
     grid-template-columns: repeat(4, 1fr); 
@@ -112,7 +112,7 @@ body {
 }
 
 
-/* Estilos de Perfil (Para as páginas individuais) */
+/* Estilos de Perfil Para as páginas individuais */
 .perfil {
     max-width: 800px;
     margin: 40px auto;
