@@ -8,7 +8,7 @@ body {
 /* Ajuste do cabeçalho para alinhamento horizontal */
 .cabecalho {
     background-color: #293a9c;
-    color: #ffffff;
+    color: #bdbbbb;
     padding: 20px; 
     display: flex;
     flex-direction: row; /* Alinhamento principal: linha */
