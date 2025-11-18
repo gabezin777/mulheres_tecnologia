@@ -1,5 +1,5 @@
 body { 
-    background-color: #5e5e5e;
+    background-color: #a5a3a3;
     font-family: Arial, sans-serif;
     color: #333;
     line-height: 1.6;
@@ -8,7 +8,7 @@ body {
 /* Ajuste do cabeçalho para alinhamento horizontal */
 .cabecalho {
     background-color: #293a9c;
-    color: #bdbbbb;
+    color: #e7e7e7;
     padding: 20px; 
     display: flex;
     flex-direction: row; /* Alinhamento principal: linha */
